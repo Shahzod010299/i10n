@@ -1,0 +1,5 @@
+{
+  "appTitle": "Sanagich dasturi",
+  "pageTitle": "Sanagich dasturi - Asosiy oyna",
+  "CounterText": "{counter, plural, zero{siz hali bu knopkani bosmadingiz.} one{siz bu knopkani 1 marta bosingiz.} other{siz bu knopkani {counter} marta bosingiz.}}"
+}
